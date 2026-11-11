@@ -1,0 +1,4 @@
+
+# Security: Ignore environment files
+**/.env
+.env
